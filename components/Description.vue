@@ -9,7 +9,9 @@
       (chile) y me especializo en la creacion de sitios web, aplicaciones y todo
       lo que conlleva, mis tecnologias favoritas son Vuejs y ruby on rails.
     </p>
-    <button class="button primary">Descargar CV</button>
+    <a href="https://drive.google.com/file/d/1S9KckpB0vRqvbqE-VRGVLOMMorz6smdX/view?usp=sharing" target="_blank">   
+       <button class="button primary" >Descargar CV</button>
+    </a>
   </div>
   <div>
     <img class="img-description" src="https://res.cloudinary.com/dutj1bbos/image/upload/v1625946455/48387013_2163826213882758_4487837926322864128_n_d7kwc6.jpg" alt="">
