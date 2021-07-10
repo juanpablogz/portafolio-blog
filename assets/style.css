@@ -1,0 +1,5 @@
+@import './generic/style.css';
+@import './components/description.css';
+@import './components/navbar.css';
+@import './components/projects.css';
+@import './mediaquery/media.css';

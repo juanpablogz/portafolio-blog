@@ -1,0 +1,26 @@
+.img-project {
+  min-width: 246px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.container-projects {
+  display: flex;
+  padding-left: 240px;
+}
+.project {
+  display: flex;
+  max-width: 900px;
+}
+p {
+  font-weight: 200;
+}
+.title-project {
+  color: #21243D;
+}
+hr {
+  border: 1px solid #E0E0E0;
+  max-width: 930px;
+}

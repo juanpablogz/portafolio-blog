@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;500&display=swap');
+body {
+  font-family: 'Heebo', sans-serif;
+}
+.button {
+  width: 208px;
+  height: 47px;
+  left: 148px;
+  top: 477px;
+  border: none;
+  color: white;
+}
+.primary {
+  background: #e05252;
+}
+.dark-mode .title-project {
+  color: #2cc4a0;
+}

@@ -1,0 +1,15 @@
+.container-description {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 50px;
+}
+.text-description {
+  max-width: 500px;
+
+}
+.img-description {
+  width: 200px;
+  border-radius: 50%
+}

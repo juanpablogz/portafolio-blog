@@ -1,0 +1,42 @@
+@media (min-width: 280px) {
+  .container-description {
+    flex-wrap: wrap-reverse;
+  }
+  .container-projects {
+    padding-left: 0px;
+  }
+  .project {
+    flex-wrap: wrap;
+  }
+  .title-projects {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    padding-left: 0px;
+  }
+}
+@media (min-width: 320px) {
+
+}
+@media (min-width: 360px) {
+
+}
+@media (min-width: 1200px) {
+  .container-projects {
+    padding-left: 240px;
+  }
+  .project {
+    flex-wrap: nowrap;
+  }
+  .title-projects {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    padding-left: 240px;
+  }
+}
+@media (min-width: 1800) {
+  .container-projects {
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
+  }
+}

@@ -1,6 +1,10 @@
 <template>
   <div>
-    <h1>hello world</h1>
+    <Navbar></Navbar>
+    <Description></Description>
+    <Blog></Blog>
+    <Projects/>
+    <Footer/>
   </div>
 </template>
 
