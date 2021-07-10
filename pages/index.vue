@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+<div>
+  <DarkMode/>
+  <Landing/>
+</div>
 </template>
 
 <script>
