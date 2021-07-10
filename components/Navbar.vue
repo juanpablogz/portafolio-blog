@@ -1,8 +1,8 @@
 <template>
     <nav>
-      <li>Works</li>
+      <!-- <li>Works</li>
       <li>Blog</li>
-      <li>Contact</li>
+      <li>Contact</li> -->
     </nav>
 </template>
 

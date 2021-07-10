@@ -4,6 +4,7 @@
     <Description></Description>
     <Blog></Blog>
     <Projects/>
+    <Experience/>
     <Footer/>
   </div>
 </template>
