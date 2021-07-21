@@ -8,7 +8,6 @@
       Soy programador de software, estudie en el sena (colombia) y en AIEP
       (chile) y me especializo en la creacion de sitios web, aplicaciones y todo
       lo que conlleva, mis tecnologias favoritas son Vuejs y ruby on rails.
-      +57 3506606
     </p>
     <a href="https://drive.google.com/file/d/1S9KckpB0vRqvbqE-VRGVLOMMorz6smdX/view?usp=sharing" target="_blank">   
        <button class="button primary" >Descargar CV</button>
