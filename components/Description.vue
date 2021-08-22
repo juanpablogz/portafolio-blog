@@ -2,12 +2,12 @@
 <div class="container-description">
   <div class="text-description">
     <h1 class="title-description">
-      Hola, mi nombre es Juan pablo. Y constuyo cosas para la web.
+      Hola, mi nombre es Juan pablo. Desarrollador de software.
     </h1>
     <p>
-      Soy programador de software, estudie en el sena (colombia) y en AIEP
+      estudie en el sena (colombia) y en AIEP
       (chile) y me especializo en la creacion de sitios web, aplicaciones y todo
-      lo que conlleva, mis tecnologias favoritas son Vuejs y ruby on rails.
+      lo que conlleva, mis tecnologias favoritas son Vuejs, react y ruby on rails.
     </p>
     <a href="https://drive.google.com/file/d/1S9KckpB0vRqvbqE-VRGVLOMMorz6smdX/view?usp=sharing" target="_blank">   
        <button class="button primary" >Descargar CV</button>

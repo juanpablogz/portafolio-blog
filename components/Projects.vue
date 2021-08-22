@@ -23,7 +23,7 @@ export default {
       projects: [
         {
           name: "Since.love",
-          description: "Proyecto de citas. En este proyecto partice en el front end, realice diversos componentes en los cuales el má destacado fue la sección de videollamada",
+          description: "Proyecto de citas. En este proyecto participe en el front end, realice diversos componentes en los cuales el más destacado fue la sección de videollamada",
           tecnologies: "xxxx",
           img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1615506917/Captura_de_Pantalla_2021-03-11_a_la_s_6.55.05_p._m._bzdvya.png",
           link: "https://www.since.love/"
