@@ -10,7 +10,7 @@
         tecnologías favoritas son Vuejs, react y ruby on rails.
       </p>
       <a
-        href="https://drive.google.com/file/d/1S9KckpB0vRqvbqE-VRGVLOMMorz6smdX/view?usp=sharing"
+        href="https://drive.google.com/file/d/1TQvpTfL9zqTcHIz5dbFetM2yqvo6zRcN/view?usp=sharing"
         target="_blank"
       >
         <button class="button primary">Descargar CV</button>
