@@ -30,7 +30,7 @@ export default {
         },
         {
           name: "Estrella restaurante",
-          description: "Realizado con quasar, en el cual tienes un menú y puedes seleccionar diferentes caracteristicas y agregarlas al carrito, una vez termines tu pedido, te redirigira a whatsapp con un mensaje personalizado con todo tu pedido.",
+          description: "Realizado con quasar, en el cual tienes un menú y puedes seleccionar diferentes características y agregarlas al carrito, una vez termines tu pedido, te redirigirá a whatsapp con un mensaje personalizado con todo tu pedido.",
           tecnologies: "xxxx",
           img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1625950103/Captura_de_Pantalla_2021-07-10_a_la_s_3.48.05_p._m._ijznga.png",
           link: "https://estrellarestaurante.com/"
@@ -48,6 +48,13 @@ export default {
           tecnologies: "xxxx",
           img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1625950239/Captura_de_Pantalla_2021-07-10_a_la_s_3.50.29_p._m._nvsoxg.png",
           link: "https://pokedexjpgz.netlify.app/"
+        },
+        {
+          name: "Hulu clon",
+          description: "Hulu clon realizado con React, NextJs, TailwindJs y conexión a la api the movie DB, despliegue en vercel",
+          tecnologies: "xxxx",
+          img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1629675008/Captura_de_Pantalla_2021-08-22_a_la_s_6.29.47_p._m._veau7c.png",
+          link: "https://hulu-jpgz.vercel.app/"
         }
       ]
     };

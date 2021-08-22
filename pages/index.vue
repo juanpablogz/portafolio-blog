@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="container-landing-page">
   <DarkMode/>
   <Landing/>
 </div>

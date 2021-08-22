@@ -9,10 +9,19 @@ body {
   top: 477px;
   border: none;
   color: white;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  margin-right: 10px;
 }
 .primary {
-  background: #e05252;
+  background: #1C2541;
+}
+.secondary {
+  background: #5BC0BE;
 }
 .dark-mode .title-project {
   color: #2cc4a0;
+}
+.container-landing-page {
+  padding: 15px;
 }

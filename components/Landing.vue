@@ -1,8 +1,8 @@
 <template>
   <div>
-    <Navbar></Navbar>
-    <Description></Description>
-    <Blog></Blog>
+    <Navbar/>
+    <Description/>
+    <Blog/>
     <Projects/>
     <Experience/>
     <Footer/>
