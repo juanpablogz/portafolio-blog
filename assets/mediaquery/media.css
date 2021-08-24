@@ -3,7 +3,7 @@
     flex-wrap: wrap-reverse;
   }
   .container-projects {
-    padding-left: 0px;
+    /* padding-left: 0px; */
   }
   .project {
     flex-wrap: wrap;
@@ -23,7 +23,7 @@
 }
 @media (min-width: 1200px) {
   .container-projects {
-    padding-left: 240px;
+    /* padding-left: 240px; */
   }
   .project {
     flex-wrap: nowrap;
