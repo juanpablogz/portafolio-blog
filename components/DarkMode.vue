@@ -66,4 +66,7 @@ body {
   font-weight: bold;
 
 }
+.dark-mode .language-letter  {
+    color: #ebf4f1;
+}
 </style>
