@@ -1,22 +1,16 @@
 <template>
   <div class="container-description">
     <div class="text-description">
-      <h1 class="title-description">
-        Hola, mi nombre es Juan pablo. Desarrollador de software.
-      </h1>
-      <p>
-        Estudié en el Sena (colombia) y en AIEP (chile) y me especializo en la
-        creación de sitios web, aplicaciones y todo lo que conlleva, mis
-        tecnologías favoritas son Vuejs, react y ruby on rails.
-      </p>
+      <h1 class="title-description">{{ $t('hello') }}</h1>
+      <p>{{ $t('studied') }}</p>
       <a
-        href="https://drive.google.com/file/d/1TQvpTfL9zqTcHIz5dbFetM2yqvo6zRcN/view?usp=sharing"
+        href="https://drive.google.com/file/d/1OKiZs160_Sd7-jlwrsERXRuA3PBb-ACS/view?usp=sharing"
         target="_blank"
       >
-        <button class="button primary">Descargar CV</button>
+        <button class="button primary">{{ $t('dowload') }}</button>
         <button class="button secondary">
           <a href="https://api.whatsapp.com/send?phone=573506956606" target="_blank"
-            >Hablemos</a
+            >{{ $t('speak') }}</a
           >
         </button>
       </a>
