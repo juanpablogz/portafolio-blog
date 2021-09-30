@@ -3,8 +3,10 @@
     <div class="text-description">
       <h1 class="title-description">{{ $t('hello') }}</h1>
       <p>{{ $t('studied') }}</p>
+      <!-- <strong>{{ $t('contact') }}</strong>
+      <p style="color:blue">https://www.linkedin.com/in/juan-pablo-gomez-zapata-b9a50a17b/</p> -->
       <a
-        href="https://drive.google.com/file/d/1OKiZs160_Sd7-jlwrsERXRuA3PBb-ACS/view?usp=sharing"
+        href="https://drive.google.com/file/d/18mPbD10ghFoQzcnDIInmJ6qxLHl95vhB/view?usp=sharing"
         target="_blank"
       >
         <button class="button primary">{{ $t('dowload') }}</button>

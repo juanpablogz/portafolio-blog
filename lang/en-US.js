@@ -1,6 +1,7 @@
 export default {
   hello: 'Hello, my name is Juan Pablo. I am a software developer.',
-  studied: 'I studied at Sena (colombia) and AIEP (chile) and I specialize in creating websites, applications and everything that goes with it, my favorite technologies are Vuejs, react and ruby on rails.',
+  studied: 'I studied at Sena (colombia) and AIEP (chile) and I specialize in creating websites, applications and everything that goes with it, my favorite technologies are Vuejs, react and ruby on rails. ',
+  contact: 'contact number +57994857553 whatsapp +563506956606 ',
   title: 'Projects in which I have participated',
   about: 'About me',
   description: 'Hello my name is juan pablo, I am a software developer, I live in medellin,colombia.i develop web applications, mainly with Vuejs, Quasar and NuxtJs. In the backend I have made Api rest with ruby on rails.',
