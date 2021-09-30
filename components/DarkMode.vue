@@ -25,8 +25,8 @@
       </svg>
     </button>
     <div class="language">
-      <div @click="change = !change" v-if="change || change == null"><nuxt-link  class="language-letter" :to="switchLocalePath('es')">Español</nuxt-link></div>
-      <div @click="change = !change" v-else><nuxt-link  class="language-letter" :to="switchLocalePath('en')">English</nuxt-link></div>
+      <div ><nuxt-link  class="language-letter" :to="switchLocalePath('es')" style="margin-right: 5px">Español</nuxt-link></div>
+      <div ><nuxt-link  class="language-letter" :to="switchLocalePath('en')">English</nuxt-link></div>
     </div>
   </div>
 </template>
