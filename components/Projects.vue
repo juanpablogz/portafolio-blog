@@ -1,6 +1,5 @@
 <template>
   <div>
-    <div class="title-projects">{{ $t('title') }}</div>
     <div v-for="project in $t('projects')" :key="project.id">
       <div class="container-projects">
         <div class="project">

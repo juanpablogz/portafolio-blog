@@ -14,6 +14,7 @@
           >
         </button>
       </a>
+    <div class="container-projects title-index">{{ $t('title') }}</div>
     </div>
     <div>
       <img
@@ -38,5 +39,11 @@ export default {
 a {
   text-decoration: none;
   color: white;
+}
+.title-index {
+  display: flex;
+  justify-content: end;
+  font-size: 24px;
+  margin: 15px 0px;
 }
 </style>
