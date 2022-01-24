@@ -3,18 +3,20 @@
     <div class="text-description">
       <h1 class="title-description">{{ $t('hello') }}</h1>
       <p>{{ $t('studied') }}</p>
-      <!-- <strong>{{ $t('contact') }}</strong>
-      <p style="color:blue">https://www.linkedin.com/in/juan-pablo-gomez-zapata-b9a50a17b/</p> -->
+      <!-- <strong style="margin-bottom: 10px">{{ $t('contact') }}</strong> -->
+      <!-- <p style="color:blue">https://www.linkedin.com/in/juan-pablo-gomez-zapata-b9a50a17b/</p> -->
       <a
         href="https://drive.google.com/file/d/18mPbD10ghFoQzcnDIInmJ6qxLHl95vhB/view?usp=sharing"
         target="_blank"
       >
+        <div>
         <button class="button primary">{{ $t('dowload') }}</button>
         <button class="button secondary">
           <a href="https://api.whatsapp.com/send?phone=573506956606" target="_blank"
             >{{ $t('speak') }}</a
           >
         </button>
+        </div>
       </a>
     <div class="container-projects title-index">{{ $t('title') }}</div>
     </div>
