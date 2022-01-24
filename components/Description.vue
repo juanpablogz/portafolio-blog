@@ -9,14 +9,14 @@
         href="https://drive.google.com/file/d/1cCYx73A4_awNBKT538K3CabW4ag52rjo/view?usp=sharing"
         target="_blank"
       >
-        <div>
+
         <button class="button primary">{{ $t('dowload') }}</button>
         <button class="button secondary">
           <a href="https://api.whatsapp.com/send?phone=573506956606" target="_blank"
             >{{ $t('speak') }}</a
           >
         </button>
-        </div>
+
       </a>
     <div class="container-projects title-index">{{ $t('title') }}</div>
     </div>
