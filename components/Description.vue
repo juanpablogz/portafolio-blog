@@ -6,7 +6,7 @@
       <!-- <strong style="margin-bottom: 10px">{{ $t('contact') }}</strong> -->
       <!-- <p style="color:blue">https://www.linkedin.com/in/juan-pablo-gomez-zapata-b9a50a17b/</p> -->
       <a
-        href="https://drive.google.com/file/d/18mPbD10ghFoQzcnDIInmJ6qxLHl95vhB/view?usp=sharing"
+        href="https://drive.google.com/file/d/1cCYx73A4_awNBKT538K3CabW4ag52rjo/view?usp=sharing"
         target="_blank"
       >
         <div>
