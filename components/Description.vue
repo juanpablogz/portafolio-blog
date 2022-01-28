@@ -18,9 +18,9 @@
         </button>
 
       </a>
-    <div class="container-projects title-index">{{ $t('title') }}</div>
+    <div class="title-index">{{ $t('title') }}</div>
     </div>
-    <div>
+    <div class="image-index">
       <img
         class="img-description"
         src="https://res.cloudinary.com/dutj1bbos/image/upload/v1625946455/48387013_2163826213882758_4487837926322864128_n_d7kwc6.jpg"
@@ -46,7 +46,7 @@ a {
 }
 .title-index {
   display: flex;
-  justify-content: end;
+
   font-size: 24px;
   margin: 15px 0px;
 }

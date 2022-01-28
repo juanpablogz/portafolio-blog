@@ -23,5 +23,10 @@ body {
   color: #2cc4a0;
 }
 .container-landing-page {
-  padding: 5px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.image-index {
+  width: inherit;
 }

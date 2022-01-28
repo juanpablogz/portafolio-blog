@@ -14,13 +14,17 @@
     margin-bottom: 25px;
     padding-left: 0px;
   }
+
 }
 @media (min-width: 320px) {
 
 }
 @media (min-width: 360px) {
-
+  .container-landing-page {
+    padding: 20px;
+  }
 }
+
 @media (min-width: 1200px) {
   .container-projects {
     /* padding-left: 240px; */
@@ -38,6 +42,16 @@
   .container-projects {
     padding-left: 0;
     display: flex;
+    justify-content: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+
+  .image-index {
+    display: flex;
+    width: 88%;
     justify-content: center;
   }
 }

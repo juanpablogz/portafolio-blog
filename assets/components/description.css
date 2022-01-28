@@ -1,9 +1,9 @@
 .container-description {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
   align-items: center;
   margin-top: 50px;
+  justify-content: space-between;
 }
 .text-description {
   max-width: 500px;
