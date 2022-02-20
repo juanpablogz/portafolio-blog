@@ -9,7 +9,7 @@
 
 
         <button class="button primary" href="https://drive.google.com/file/d/1cCYx73A4_awNBKT538K3CabW4ag52rjo/view?usp=sharing" target="_blank">
-          <a style="padding: 20px" href="https://drive.google.com/file/d/1cCYx73A4_awNBKT538K3CabW4ag52rjo/view?usp=sharing"target="_blank"
+          <a style="padding: 20px" href="https://drive.google.com/file/d/1cCYx73A4_awNBKT538K3CabW4ag52rjo/view?usp=sharing" target="_blank"
             >{{ $t('dowload') }}</a
           >
         </button>
