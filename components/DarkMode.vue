@@ -5,7 +5,7 @@
       style="background: transparent; border: none; position: absolute; z-index: 2; max-width: 30px"
       @click="$colorMode.preference = 'dark'"
     >
-      <svg style="color: black; max-width: 30px; padding: 15px;">
+      <svg style="color: black; max-width: 30px; padding: 15px; position:absolute; z-index:99">
         <path
           fill="currentColor"
           d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"
