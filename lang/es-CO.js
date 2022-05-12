@@ -25,11 +25,25 @@ export default {
       link: "https://www.since.love/"
     },
     {
-      name: "Estrella restaurante",
-      description: "Realizado con quasar, en el cual tienes un menú y puedes seleccionar diferentes características y agregarlas al carrito, una vez termines tu pedido, te redirigirá a whatsapp con un mensaje personalizado con todo tu pedido.",
+      name: "Editor Arlene",
+      description: "Desarrollo del editor low code realizado con React y tailwind, con el cual se crearan experiencias en 360 y realidad aumentada (Aun en construcción).",
       tecnologies: "xxxx",
-      img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1625950103/Captura_de_Pantalla_2021-07-10_a_la_s_3.48.05_p._m._ijznga.png",
-      link: "https://estrellarestaurante.com/"
+      img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1652324270/Screen_Shot_2022-05-11_at_9.57.33_PM_b892t4.png",
+      link: "https://editor.arlene.io/#/login"
+    },
+    {
+      name: "Proyecto 360",
+      description: "Proyecto realizado para disney, este proyecto puede ser realizado en el editor arlene, utilizando tecnologias como marzipano",
+      tecnologies: "xxxx",
+      img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1652324455/Screen_Shot_2022-05-11_at_10.00.44_PM_jil9id.png",
+      link: "https://showroom.arlene.io/coach/disney-keith-haring/"
+    },
+    {
+      name: "Proyecto VTO",
+      description: "Proyecto creado desde el editor arlene, utilizando threejs y modelos GLB, este proyecto se puede abrir desde el celular y obtener un objeto en realidad aumentada",
+      tecnologies: "xxxx",
+      img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1652325116/Screen_Shot_2022-05-11_at_10.11.47_PM_lyfhj0.png",
+      link: "https://vto.arlene.io/demo/index.html"
     },
     {
       name: "Especialista en casa",
@@ -37,13 +51,6 @@ export default {
       tecnologies: "xxxx",
       img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1625950334/Captura_de_Pantalla_2021-07-10_a_la_s_3.52.03_p._m._v6ny9j.png",
       link: "https://www.especialistaencasa.com/"
-    },
-    {
-      name: "Pokedex",
-      description: "Pokedex, listado pokémons Favoritos. fue realizado con vuejs, nuxt,vuex, local storage y conexión a la api https://pokeapi.co/",
-      tecnologies: "xxxx",
-      img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1625950239/Captura_de_Pantalla_2021-07-10_a_la_s_3.50.29_p._m._nvsoxg.png",
-      link: "https://pokedexjpgz.netlify.app/"
     },
     {
       name: "Hulu clon",
