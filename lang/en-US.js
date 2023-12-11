@@ -29,7 +29,7 @@ export default {
       description: "Development of the low code editor made with React and tailwind, with which 360 and augmented reality experiences will be created (still under construction).",
       tecnologies: "xxxx",
       img:"https://res.cloudinary.com/dutj1bbos/image/upload/v1652324270/Screen_Shot_2022-05-11_at_9.57.33_PM_b892t4.png",
-      link: "https://editor.arlene.io/#/login"
+      link: "https://hub.webxr.tools/#/login"
     },
     {
       name: "Project 360",

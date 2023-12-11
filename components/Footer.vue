@@ -8,7 +8,7 @@
   <a href="https://www.facebook.com/juanpablo.gomezzapata.58" target="_blank"> <img  class="img-footer" src="https://res.cloudinary.com/dutj1bbos/image/upload/v1625953180/fb_1_peeeps.png" alt=""></a>
    <a href="https://www.linkedin.com/in/juan-pablo-gomez-zapata-b9a50a17b/" target="_blank"><img class="img-footer" src="https://res.cloudinary.com/dutj1bbos/image/upload/v1625953217/Linkedin_1_iajeyz.png" alt=""></a>
   </footer>
-    <div class="footer">Copyright ©2022 All rights reserved </div>
+    <div class="footer">Copyright ©2023 All rights reserved </div>
 </div>
 </template>
 
